@@ -1,0 +1,33 @@
+{
+  "name": "aether",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aanzodev/Aether.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aanzodev/Aether/issues"
+  },
+  "homepage": "https://github.com/aanzodev/Aether#readme",
+  "dependencies": {
+    "@mercuryworkshop/bare-mux": "^2.1.9",
+    "@mercuryworkshop/epoxy-transport": "^2.1.28",
+    "@mercuryworkshop/wisp-js": "^0.5.0",
+    "@titaniumnetwork-dev/ultraviolet": "^3.2.10",
+    "express": "^5.2.1",
+    "wisp-server-node": "^1.1.8"
+  },
+  "devDependencies": {
+    "javascript-obfuscator": "^5.7.0",
+    "terser": "^5.51.2"
+  }
+}
